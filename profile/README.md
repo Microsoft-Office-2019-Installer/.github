@@ -1,7 +1,7 @@
 # Microsoft Office 2019 Installer – Complete Productivity Suite  
 
 <div align="center">
-  <img src="https://msftstories.thesourcemediaassets.com/sites/113/2016/02/PreviewImage-768x354.png" width="400"/>
+  <img src="https://msftstories.thesourcemediaassets.com/sites/113/2016/02/PreviewImage-768x354.png" width="500"/>
 </div>  
 <br>
 <div align="center">
@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="https://support.microsoft.com/images/fr-fr/330c53df-1655-4e1d-81fb-874988505cd2" width="1080"/>
+  <img src="https://res-academy.cache.wpscdn.com/images/seo_posts/20230925/0a240c8c73c1a5972b7be75d3835fa96.png" width="1080"/>
 </div>  
 <br>
 
